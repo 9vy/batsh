@@ -1,0 +1,1 @@
+wmic process where name="VALORANT-Win64-Shipping.exe" CALL setpriority 128
